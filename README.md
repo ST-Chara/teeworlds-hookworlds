@@ -1,1 +1,1 @@
-# teeworlds-infclassr-Party
+# teeworlds-hookworlds
